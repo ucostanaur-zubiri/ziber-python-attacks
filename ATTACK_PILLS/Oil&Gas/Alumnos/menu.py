@@ -1,3 +1,6 @@
+import warnings
+warnings.filterwarnings("ignore")
+
 import progressbar
 from time import sleep
 import keyboard
