@@ -41,7 +41,7 @@ class menu:
         print("4 - stop pump")
         print("5 - run_pump")
         print("6 - false_level")
-        print("7 - exit")
+        print("exit - exit")
 
 
     def imprimir_prompt(self):
